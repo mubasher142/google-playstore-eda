@@ -92,7 +92,6 @@ Open and run the notebook:
 jupyter notebook
 
 📦 Requirements
-
 Python 3.x
 Pandas
 Matplotlib
